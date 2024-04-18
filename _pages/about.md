@@ -106,7 +106,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection</h4>   
-  <sub><p style="line-height:15px"> Jiabao Wang*, Yuming Chen*, </b>Zhaohui Zheng</b>, Xiang Li, Ming-Ming Cheng, Qibin Hou#</p> 
+  <sub><p style="line-height:15px"> Jiabao Wang*, Yuming Chen*, <b>Zhaohui Zheng</b>, Xiang Li, Ming-Ming Cheng, Qibin Hou#</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2306.11369.pdf">[Arxiv]</a> <a href="https://github.com/jbwang1997/CrossKD">[Code]</a></p>   
   </sub>
@@ -114,7 +114,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Large selective kernel network for remote sensing object detection</h4>   
-  <sub><p style="line-height:15px"> Yuxuan Li, Qibin Hou, </b>Zhaohui Zheng</b>, Ming-Ming Cheng, Jian Yang#, Xiang Li#</p> 
+  <sub><p style="line-height:15px"> Yuxuan Li, Qibin Hou, <b>Zhaohui Zheng</b>, Ming-Ming Cheng, Jian Yang#, Xiang Li#</p> 
   <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2023</p>   
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Large_Selective_Kernel_Network_for_Remote_Sensing_Object_Detection_ICCV_2023_paper.pdf">[Arxiv]</a> <a href="https://github.com/VCIP-RGBD/DFormer">[Code]</a></p>   
   </sub>
