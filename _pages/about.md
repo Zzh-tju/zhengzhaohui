@@ -47,23 +47,24 @@ See my recent publications for more details.
 
 ## Collaborator
 
-+ Ming-Ming Cheng
-+ Qibin Hou
-+ Xiang Li
-+ Chenyu Ming
-+ Jiabao Wang
-+ Yuxuan Li
-+ Jian Yang
++ Ming-Ming Cheng, Nankai University
++ Qibin Hou, Nankai University
++ Xiang Li, Nankai University
++ Chenyu Ming, Nankai University
++ Jiabao Wang, Nankai University
++ Yuxuan Li, Nankai University
   
-+ Wangmeng Zuo
-+ Dongwei Ren
++ Jian Yang, Nanjing University of Science and Technology
   
-+ Qinghua Hu
-+ Ping Wang
-+ Rongguang Ye
-+ Wei Liu
++ Wangmeng Zuo, Harbin Institute of Technology
++ Dongwei Ren, Harbin Institute of Technology
   
-+ Jinze Li
++ Qinghua Hu, Tianjin University
++ Ping Wang, Tianjin University
++ Rongguang Ye, Tianjin University
++ Wei Liu, Tianjin University
+  
++ Jinze Li, People’s Public Security University of China
 
 
 ## Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en))
