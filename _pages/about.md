@@ -43,7 +43,7 @@ See my recent publications for more details.
 + One paper accepted by T-CYB'21
 + One paper accepted by AAAI'20
 
-<span class='anchor' id='-group'></span>
+<span class='anchor' id='-collaborator'></span>
 
 ## Collaborator
 
