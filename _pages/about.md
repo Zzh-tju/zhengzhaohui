@@ -52,15 +52,17 @@ See my recent publications for more details.
 + Xiang Li
 + Chenyu Ming
 + Jiabao Wang
-+ 
++ Yuxuan Li
++ Jian Yang
+  
 + Wangmeng Zuo
 + Dongwei Ren
-+ 
+  
 + Qinghua Hu
 + Ping Wang
 + Rongguang Ye
 + Wei Liu
-+ 
+  
 + Jinze Li
 
 
