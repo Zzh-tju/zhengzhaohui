@@ -124,7 +124,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Zone Evaluation: Revealing Spatial Bias in Object Detection</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
+  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
   <p style="line-height:15px">Arxiv, 2023</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215.pdf">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a></p>   
   </sub>
