@@ -66,6 +66,7 @@ See my recent publications for more details.
   
 + Jinze Li, People’s Public Security University of China
 
+<span class='anchor' id='-pub'></span>
 
 ## Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en))
 
