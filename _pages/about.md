@@ -31,7 +31,7 @@ Specific directions: Loss function, Non-maximum suppression, Label assignment, E
 
 See my recent publications for more details.
 
-<span class='anchor' id='-fs'></span>
+<span class='anchor' id='-news'></span>
 
 ## News
 
