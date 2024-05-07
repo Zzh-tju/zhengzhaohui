@@ -94,7 +94,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Enhancing geometric factors in model learning and inference for object detection and instance segmentation</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Dongwei Ren, Wei Liu, Rongguang Ye, Qinghua Hu, Wangmeng Zuo</p> 
+  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Dongwei Ren#, Wei Liu, Rongguang Ye, Qinghua Hu, Wangmeng Zuo</p> 
   <p style="line-height:15px">IEEE Transactions on Cybernetics (TCYB), 2022</p>   
   <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2005.03572.pdf">[Arxiv]</a> <a href="https://github.com/Zzh-tju/CIoU" class="redlink">[Code]</a></p>   
   </sub>
@@ -104,7 +104,7 @@ See my recent publications for more details.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Distance-IoU loss: Faster and better learning for bounding box regression</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, Dongwei Ren</p> 
+  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, Dongwei Ren#</p> 
   <p style="line-height:15px">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020</p>   
   <p style="line-height:15px"> <a href="https://doi.org/10.1609/aaai.v34i07.6999">[Arxiv]</a> <a href="https://github.com/Zzh-tju/DIoU">[Code]</a></p>   
   </sub>
