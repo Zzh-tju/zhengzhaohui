@@ -52,7 +52,7 @@ See my recent publications for more details.
 + One paper accepted by ICCV'23
 + One paper accepted by T-PAMI'23
 + One paper accepted by CVPR'22
-+ One paper accepted by T-CYB'21
++ One paper accepted by T-CYB'22
 + One paper accepted by AAAI'20
 
 <span class='anchor' id='-collaborator'></span>
