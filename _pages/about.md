@@ -23,7 +23,17 @@ His research interests include object detection, instance segmentation, and know
 He received the CCF-CV Academic Emerging Scholar Award in 2023.
  <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>。
 
-## Research Interests：
+## Education
+
+2014 - 2018: Applied mathematics - Zhengzhou University, Zhengzhou, China
+
+2018 - 2021: Computational mathematics - Tianjin University, Tianjin, China
+
+2021 - 2025: Computer science - Nankai University, Tianjin, China
+
+<span class='anchor' id='-education'></span>
+
+## Research Interests
 
 My research interests are object detection, instance segmentation, and knowledge distillation. 
 
