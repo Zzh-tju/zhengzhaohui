@@ -27,11 +27,11 @@ He received the CCF-CV Academic Emerging Scholar Award in 2023.
 
 ## Education
 
-2014 - 2018: Applied mathematics - Zhengzhou University, Zhengzhou, China
+2014 - 2018: **Applied mathematics** - Zhengzhou University, Zhengzhou, China
 
-2018 - 2021: Computational mathematics - Tianjin University, Tianjin, China
+2018 - 2021: **Computational mathematics** - Tianjin University, Tianjin, China
 
-2021 - 2025: Computer science - Nankai University, Tianjin, China
+2021 - 2025: **Computer science** - Nankai University, Tianjin, China
 
 <span class='anchor' id='-education'></span>
 
