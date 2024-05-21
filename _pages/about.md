@@ -88,7 +88,7 @@ See my recent publications for more details.
   <h4>Localization distillation for object detection</h4>   
   <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Rongguang Ye, Qibin Hou#, Dongwei Ren, Ping Wang, Wangmeng Zuo, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2204.05957.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a> <a <b>Highly Cited Paper</b> </a> </p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2204.05957.pdf">[Arxiv]</a> <a href="https://github.com/HikariTJU/LD" class="redlink">[Code]</a> <b>Highly Cited Paper</b> </p>   
   </sub>
 </blockquote>
 
