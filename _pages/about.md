@@ -106,7 +106,7 @@ See my recent publications for more details.
   <h4>Distance-IoU loss: Faster and better learning for bounding box regression</h4>   
   <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Ping Wang, Wei Liu, Jinze Li, Rongguang Ye, Dongwei Ren#</p> 
   <p style="line-height:15px">Proceedings of the AAAI Conference on Artificial Intelligence (AAAI), 2020</p>   
-  <p style="line-height:15px"> <a href="https://doi.org/10.1609/aaai.v34i07.6999">[Arxiv]</a> <a href="https://github.com/Zzh-tju/DIoU">[Code]</a> <a <b>Most influential AAAI 2020 paper, Top-2</b> href="https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/">[Paper digest]</a> </p>   
+  <p style="line-height:15px"> <a href="https://doi.org/10.1609/aaai.v34i07.6999">[Arxiv]</a> <a href="https://github.com/Zzh-tju/DIoU">[Code]</a> <b>Most influential AAAI 2020 paper, Top-2</b> <a href="https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/">[Paper digest]</a> </p>   
   </sub>
 </blockquote>
 
