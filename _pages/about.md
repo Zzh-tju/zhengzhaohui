@@ -47,8 +47,9 @@ See my recent publications for more details.
 
 ## News
 
-+ I received the CCF-CV Academic Emerging Scholar Award in 2023.
++ One paper accepted by T-PAMI'24
 + One paper accepted by CVPR'24
++ I received the CCF-CV Academic Emerging Scholar Award in 2023.
 + One paper accepted by ICCV'23
 + One paper accepted by T-PAMI'23
 + One paper accepted by CVPR'22
@@ -83,6 +84,14 @@ See my recent publications for more details.
 ## Journal Publications ([Google Scholar](https://scholar.google.com/citations?user=0X71NDYAAAAJ&hl=en))
 
 #### "*" means authors contributed equally and "#" means corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Zone Evaluation: Revealing Spatial Bias in Object Detection</h4>   
+  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
+  <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> </p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Localization distillation for object detection</h4>   
