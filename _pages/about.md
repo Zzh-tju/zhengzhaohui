@@ -23,7 +23,7 @@ Zhaohui Zheng received the M.S. degree in computational mathematics from Tianjin
 He is currently a Ph.D. candidate at Media Computing Lab, Nankai University, supervised by Prof. Ming-Ming Cheng and co-supervised by Asso. Prof. Qibin Hou.
 His research interests include object detection, instance segmentation, and knowledge distillation.
 He received the CCF-CV Academic Emerging Scholar Award in 2023.
- <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>。
+ <a href='https://scholar.google.com/citations?user=0X71NDYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citation"></a>
 
 ## Education
 
