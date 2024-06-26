@@ -89,7 +89,7 @@ See my recent publications for more details.
   <h4>Zone Evaluation: Revealing Spatial Bias in Object Detection</h4>   
   <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> </p>   
+  <p style="line-height:15px"> <a href="https://ieeexplore.ieee.org/abstract/document/10547427">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
 
@@ -144,16 +144,6 @@ See my recent publications for more details.
 </blockquote>
 
 ## Preprint
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>Zone Evaluation: Revealing Spatial Bias in Object Detection</h4>   
-  <sub><p style="line-height:15px"> <b>Zhaohui Zheng</b>, Yuming Chen, Qibin Hou#, Xiang Li, Ping Wang, Ming-Ming Cheng</p> 
-  <p style="line-height:15px">Arxiv, 2023</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2310.13215.pdf">[Arxiv]</a> <a href="https://github.com/Zzh-tju/ZoneEval" class="redlink">[Code]</a></p>   
-  </sub>
-</blockquote>
-
-<span class='anchor' id='-services'></span>
 
 ## Academic Services
 
